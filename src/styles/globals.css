@@ -96,6 +96,7 @@
 :root {
 
   --primary: #ff8928;
+   --sidebar-primary: #ff8928;
 
   /* Flow Builder design tokens — LIGHT mode values (EVO-1253). */
   --flow-node-trigger-bg: oklch(0.95 0.05 150);
@@ -149,7 +150,9 @@
 }
 
 .dark {
-    --primary: #ff8928;      
+    --primary: #ff8928;  
+    
+    --sidebar-primary: #ff8928;
 
   /* Flow Builder design tokens — DARK mode overrides (EVO-1253). */
   --flow-node-trigger-bg: oklch(0.22 0.05 150);

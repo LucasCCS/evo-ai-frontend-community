@@ -73,11 +73,11 @@
     "collapse": "Collapse sidebar",
     "closeSubmenu": "Close submenu",
     "footer": {
-      "brand": "InovLab CRM",
+      "brand": "InovChat",
       "copyright": "© {{year}} InovLab. All rights reserved.",
       "documentation": "Documentation",
       "support": "I need support",
-      "basedOn": "Based on Evo CRM"
+      "basedOn": "Based on InovChat"
     }
   },
   "menu": {

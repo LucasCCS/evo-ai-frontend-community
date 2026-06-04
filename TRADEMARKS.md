@@ -1,23 +1,23 @@
-# Evo CRM Frontend — Trademark and Brand Assets Policy
+# InovChat Frontend — Trademark and Brand Assets Policy
 
 Version 1.0, 2026.05.06
 
-"Evolution Foundation", "Evolution" and "Evo CRM Frontend" are trademarks of
-Evolution Foundation. The "evocrm-frontend" wordmark and the Evo CRM Frontend
+"Evolution Foundation", "Evolution" and "InovChat Frontend" are trademarks of
+Evolution Foundation. The "evocrm-frontend" wordmark and the InovChat Frontend
 logo are trademarks of Evolution Foundation.
 
 ## 1. Scope and purpose
 
-This policy governs the use of Evo CRM Frontend trademarks and brand assets.
+This policy governs the use of InovChat Frontend trademarks and brand assets.
 It is intended to protect users from confusion and to preserve the official
-Evo CRM Frontend visual identity.
+InovChat Frontend visual identity.
 
 This policy applies to any use of:
-(a) the product names and marks "Evolution Foundation", "Evolution" and "Evo CRM Frontend";
+(a) the product names and marks "Evolution Foundation", "Evolution" and "InovChat Frontend";
 (b) the official logo and wordmark: the "evocrm-frontend" wordmark and any
     associated icon in neon green;
 (c) the copyright line "© 2026 Evolution Foundation"; and
-(d) any materials that implement or express the Evo CRM Frontend official look
+(d) any materials that implement or express the InovChat Frontend official look
     and feel, including the Protected Visual Identity Elements listed in Section 3.
 
 This policy does not change the software license for the source code, which is
@@ -26,23 +26,23 @@ brand assets.
 
 ## 2. Permitted trademark and brand asset use
 
-2.1. You may truthfully refer to Evo CRM Frontend to describe that your software
+2.1. You may truthfully refer to InovChat Frontend to describe that your software
 is based on, compatible with, or derived from this project, provided that such
 use does not imply endorsement by Evolution Foundation.
 
 2.2. You may distribute and publicly host unmodified official builds of
-Evo CRM Frontend that include Evo CRM Frontend brand assets, provided that you
+InovChat Frontend that include InovChat Frontend brand assets, provided that you
 comply with Section 3 and do not suggest endorsement beyond being an official
 unmodified build.
 
-2.3. You may use Evo CRM Frontend marks in nominative ways, such as
-"based on Evo CRM Frontend", provided that the use is accurate and does not
+2.3. You may use InovChat Frontend marks in nominative ways, such as
+"based on InovChat Frontend", provided that the use is accurate and does not
 create confusion.
 
 ## 3. Protected Visual Identity Elements (Brand Assets)
 
 The following are the "Protected Visual Identity Elements":
-(a) Product names and marks: "Evolution Foundation", "Evolution" and "Evo CRM Frontend";
+(a) Product names and marks: "Evolution Foundation", "Evolution" and "InovChat Frontend";
 (b) Official logo and wordmark: the "evocrm-frontend" wordmark and any associated icon;
 (c) Copyright line: "© 2026 Evolution Foundation";
 (d) Official palette:
@@ -62,26 +62,26 @@ The following are the "Protected Visual Identity Elements":
 ## 4. Restrictions for forks, modified versions, and redistributions
 
 4.1. **No modification of Protected Visual Identity Elements when using
-Evo CRM Frontend brand assets.** If you distribute or publicly host any version
-of the user interface that uses Evo CRM Frontend brand assets, you may not
+InovChat Frontend brand assets.** If you distribute or publicly host any version
+of the user interface that uses InovChat Frontend brand assets, you may not
 remove, replace, modify, disable, or bypass any Protected Visual Identity Element.
 
-4.2. **Modified UI must remove Evo CRM Frontend brand assets.**
+4.2. **Modified UI must remove InovChat Frontend brand assets.**
 If you distribute or publicly host a modified user interface or user experience
 (including changes to branding or visual identity), you must:
-(a) remove and replace all Evo CRM Frontend trademarks and brand assets from
+(a) remove and replace all InovChat Frontend trademarks and brand assets from
     the user interface, product name display, and related marketing materials
     for that distribution; and
-(b) choose a name and branding that are clearly distinct from Evo CRM Frontend.
+(b) choose a name and branding that are clearly distinct from InovChat Frontend.
 
 4.3. **No endorsement.**
-You may not use Evo CRM Frontend trademarks or brand assets in a way that
+You may not use InovChat Frontend trademarks or brand assets in a way that
 implies Evolution Foundation sponsors, endorses, or is affiliated with your
 distribution, except for unmodified official builds.
 
 4.4. **No derivative works of the logo and wordmark.**
 You may not modify, adapt, recolor, redesign, or create derivative works of the
-Evo CRM Frontend logo or wordmark.
+InovChat Frontend logo or wordmark.
 
 ## 5. Permission requests
 
@@ -90,8 +90,8 @@ from Evolution Foundation. Contact: **suporte@evofoundation.com.br**.
 
 ## 6. Enforcement and termination
 
-Any violation of this policy terminates your permission to use Evo CRM Frontend
-brand assets. You must promptly cease use and remove Evo CRM Frontend trademarks
+Any violation of this policy terminates your permission to use InovChat Frontend
+brand assets. You must promptly cease use and remove InovChat Frontend trademarks
 and brand assets from your distribution and any public hosting.
 
 ## 7. Disclaimer

@@ -13,7 +13,7 @@ interface AppLogoProps {
   forceTheme?: 'dark' | 'light';
 }
 
-export function AppLogo({ className, alt = 'InovLab CRM', style, forceTheme }: AppLogoProps) {
+export function AppLogo({ className, alt = 'InovChat', style, forceTheme }: AppLogoProps) {
   const { theme } = useDarkMode();
   const effectiveTheme = forceTheme ?? theme;
   const src = effectiveTheme === 'dark' ? logoDark : logoLight;
