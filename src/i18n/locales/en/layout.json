@@ -73,10 +73,11 @@
     "collapse": "Collapse sidebar",
     "closeSubmenu": "Close submenu",
     "footer": {
-      "brand": "Evo CRM",
-      "copyright": "© {{year}} Evolution Foundation. All rights reserved.",
+      "brand": "InovLab CRM",
+      "copyright": "© {{year}} InovLab. All rights reserved.",
       "documentation": "Documentation",
-      "support": "I need support"
+      "support": "I need support",
+      "basedOn": "Based on Evo CRM"
     }
   },
   "menu": {

@@ -7,11 +7,11 @@ const navItems = [
   { key: 'storage', path: '/settings/admin/storage', icon: HardDrive },
   { key: 'socialLogin', path: '/settings/admin/social-login', icon: KeyRound },
   { key: 'channels', path: '/settings/admin/channels', icon: MessageSquare },
-  { key: 'openai', path: '/settings/admin/openai', icon: Sparkles },
-  { key: 'integrations', path: '/settings/admin/integrations', icon: Puzzle },
-  { key: 'evolutionHub', path: '/settings/admin/evolution-hub', icon: Cable },
-  { key: 'inboundEmail', path: '/settings/admin/inbound-email', icon: MailOpen },
-  { key: 'frontendRuntime', path: '/settings/admin/frontend-runtime', icon: Globe },
+  // { key: 'openai', path: '/settings/admin/openai', icon: Sparkles },
+  // { key: 'integrations', path: '/settings/admin/integrations', icon: Puzzle },
+  // { key: 'evolutionHub', path: '/settings/admin/evolution-hub', icon: Cable },
+  // { key: 'inboundEmail', path: '/settings/admin/inbound-email', icon: MailOpen },
+  // { key: 'frontendRuntime', path: '/settings/admin/frontend-runtime', icon: Globe },
 ] as const;
 
 export default function AdminSettingsLayout() {
